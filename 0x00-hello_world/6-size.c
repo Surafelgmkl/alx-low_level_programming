@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-* main -A program that prints the size of various computer type
-* Return 0 (Success)
-*/
-int main (void)
+ * main -A program that prints the size of various computer type
+ * Return 0 (Success)
+ */
+int main(void)
 {
 	char a;
 	int b;
