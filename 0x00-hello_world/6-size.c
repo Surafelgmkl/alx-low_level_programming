@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - A program that printf the size of various computer type
- * Return 0 (Success)
+  * main - A program that print the size of various computer type
+  * Return 0 (Success)
  */
 int main(void)
 {
