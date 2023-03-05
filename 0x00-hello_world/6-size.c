@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main -A program that prints the size of various computer type
- * Return 0 (Seccess)
- */
+  * main -A program that prints the size of various computer type
+  * Return 0 (Seccess)
+  */
 int main(void)
 {
 	char a;
