@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
 * main -A program that prints the size of various computer type
-* Return 0 (Success)
+* Return 1 (Success)
 */
 int main(void)
 {
