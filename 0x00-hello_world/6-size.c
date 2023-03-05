@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <unistd.h>
 /**
   * main - A program that print the size of various computer type
